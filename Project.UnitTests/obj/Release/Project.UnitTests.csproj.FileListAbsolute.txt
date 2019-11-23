@@ -1,0 +1,12 @@
+C:\Users\Дима\documents\visual studio 2013\Projects\Service\Project.UnitTests\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\Дима\documents\visual studio 2013\Projects\Service\Project.UnitTests\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\Дима\documents\visual studio 2013\Projects\Service\Project.UnitTests\bin\Release\nunit.engine.dll
+C:\Users\Дима\documents\visual studio 2013\Projects\Service\Project.UnitTests\bin\Release\nunit.engine.api.dll
+C:\Users\Дима\documents\visual studio 2013\Projects\Service\Project.UnitTests\bin\Release\Project.UnitTests.dll
+C:\Users\Дима\documents\visual studio 2013\Projects\Service\Project.UnitTests\bin\Release\Project.UnitTests.pdb
+C:\Users\Дима\documents\visual studio 2013\Projects\Service\Project.UnitTests\bin\Release\nunit.framework.dll
+C:\Users\Дима\documents\visual studio 2013\Projects\Service\Project.UnitTests\bin\Release\nunit.framework.pdb
+C:\Users\Дима\documents\visual studio 2013\Projects\Service\Project.UnitTests\bin\Release\nunit.framework.xml
+C:\Users\Дима\documents\visual studio 2013\Projects\Service\Project.UnitTests\obj\Release\Project.UnitTests.dll
+C:\Users\Дима\documents\visual studio 2013\Projects\Service\Project.UnitTests\obj\Release\Project.UnitTests.pdb
+C:\Users\Дима\documents\visual studio 2013\Projects\Service\Project.UnitTests\obj\Release\Project.UnitTests.csprojResolveAssemblyReference.cache

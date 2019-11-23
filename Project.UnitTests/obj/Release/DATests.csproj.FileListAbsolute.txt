@@ -1,0 +1,15 @@
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\bin\Release\nunit.engine.dll
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\bin\Release\nunit.engine.api.dll
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\bin\Release\DATests.dll
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\bin\Release\DATests.pdb
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\bin\Release\nunit.framework.dll
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\bin\Release\Project.exe
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\bin\Release\Renci.SshNet.dll
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\bin\Release\Project.pdb
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\bin\Release\nunit.framework.pdb
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\bin\Release\nunit.framework.xml
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\obj\Release\DATests.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\obj\Release\DATests.dll
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\ServiceDevelopment\Service\Project.UnitTests\obj\Release\DATests.pdb
