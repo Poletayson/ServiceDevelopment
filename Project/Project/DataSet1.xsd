@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="unit_of_measurement" msprop:Generator_TableClassName="unit_of_measurementDataTable" msprop:Generator_TableVarName="tableunit_of_measurement" msprop:Generator_TablePropName="unit_of_measurement" msprop:Generator_RowDeletingName="unit_of_measurementRowDeleting" msprop:Generator_RowChangingName="unit_of_measurementRowChanging" msprop:Generator_RowEvHandlerName="unit_of_measurementRowChangeEventHandler" msprop:Generator_RowDeletedName="unit_of_measurementRowDeleted" msprop:Generator_UserTableName="unit_of_measurement" msprop:Generator_RowChangedName="unit_of_measurementRowChanged" msprop:Generator_RowEvArgName="unit_of_measurementRowChangeEvent" msprop:Generator_RowClassName="unit_of_measurementRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" minOccurs="0" />
+              <xs:element name="code" msprop:Generator_ColumnVarNameInTable="columncode" msprop:Generator_ColumnPropNameInRow="code" msprop:Generator_ColumnPropNameInTable="codeColumn" msprop:Generator_UserColumnName="code" type="xs:string" minOccurs="0" />
+              <xs:element name="unit_name" msprop:Generator_ColumnVarNameInTable="columnunit_name" msprop:Generator_ColumnPropNameInRow="unit_name" msprop:Generator_ColumnPropNameInTable="unit_nameColumn" msprop:Generator_UserColumnName="unit_name" type="xs:string" minOccurs="0" />
+              <xs:element name="national_symbol" msprop:Generator_ColumnVarNameInTable="columnnational_symbol" msprop:Generator_ColumnPropNameInRow="national_symbol" msprop:Generator_ColumnPropNameInTable="national_symbolColumn" msprop:Generator_UserColumnName="national_symbol" type="xs:string" minOccurs="0" />
+              <xs:element name="code_letter" msprop:Generator_ColumnVarNameInTable="columncode_letter" msprop:Generator_ColumnPropNameInRow="code_letter" msprop:Generator_ColumnPropNameInTable="code_letterColumn" msprop:Generator_UserColumnName="code_letter" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="organization" msprop:Generator_TableClassName="organizationDataTable" msprop:Generator_TableVarName="tableorganization" msprop:Generator_TablePropName="organization" msprop:Generator_RowDeletingName="organizationRowDeleting" msprop:Generator_RowChangingName="organizationRowChanging" msprop:Generator_RowEvHandlerName="organizationRowChangeEventHandler" msprop:Generator_RowDeletedName="organizationRowDeleted" msprop:Generator_UserTableName="organization" msprop:Generator_RowChangedName="organizationRowChanged" msprop:Generator_RowEvArgName="organizationRowChangeEvent" msprop:Generator_RowClassName="organizationRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" minOccurs="0" />
+              <xs:element name="okpo_number" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnokpo_number" msprop:Generator_ColumnPropNameInRow="okpo_number" msprop:Generator_ColumnPropNameInTable="okpo_numberColumn" msprop:Generator_UserColumnName="okpo_number" type="xs:int" minOccurs="0" />
+              <xs:element name="organization_name" msprop:Generator_ColumnVarNameInTable="columnorganization_name" msprop:Generator_ColumnPropNameInRow="organization_name" msprop:Generator_ColumnPropNameInTable="organization_nameColumn" msprop:Generator_UserColumnName="organization_name" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="invoice" msprop:Generator_TableClassName="invoiceDataTable" msprop:Generator_TableVarName="tableinvoice" msprop:Generator_TablePropName="invoice" msprop:Generator_RowDeletingName="invoiceRowDeleting" msprop:Generator_RowChangingName="invoiceRowChanging" msprop:Generator_RowEvHandlerName="invoiceRowChangeEventHandler" msprop:Generator_RowDeletedName="invoiceRowDeleted" msprop:Generator_UserTableName="invoice" msprop:Generator_RowChangedName="invoiceRowChanged" msprop:Generator_RowEvArgName="invoiceRowChangeEvent" msprop:Generator_RowClassName="invoiceRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" minOccurs="0" />
+              <xs:element name="invoice_number" msprop:Generator_ColumnVarNameInTable="columninvoice_number" msprop:Generator_ColumnPropNameInRow="invoice_number" msprop:Generator_ColumnPropNameInTable="invoice_numberColumn" msprop:Generator_UserColumnName="invoice_number" type="xs:string" minOccurs="0" />
+              <xs:element name="date_of_creation" msprop:Generator_ColumnVarNameInTable="columndate_of_creation" msprop:Generator_ColumnPropNameInRow="date_of_creation" msprop:Generator_ColumnPropNameInTable="date_of_creationColumn" msprop:Generator_UserColumnName="date_of_creation" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="organization_id" msprop:Generator_ColumnVarNameInTable="columnorganization_id" msprop:Generator_ColumnPropNameInRow="organization_id" msprop:Generator_ColumnPropNameInTable="organization_idColumn" msprop:Generator_UserColumnName="organization_id" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="position_in_mat_delivery_note" msprop:Generator_TableClassName="position_in_mat_delivery_noteDataTable" msprop:Generator_TableVarName="tableposition_in_mat_delivery_note" msprop:Generator_TablePropName="position_in_mat_delivery_note" msprop:Generator_RowDeletingName="position_in_mat_delivery_noteRowDeleting" msprop:Generator_RowChangingName="position_in_mat_delivery_noteRowChanging" msprop:Generator_RowEvHandlerName="position_in_mat_delivery_noteRowChangeEventHandler" msprop:Generator_RowDeletedName="position_in_mat_delivery_noteRowDeleted" msprop:Generator_UserTableName="position_in_mat_delivery_note" msprop:Generator_RowChangedName="position_in_mat_delivery_noteRowChanged" msprop:Generator_RowEvArgName="position_in_mat_delivery_noteRowChangeEvent" msprop:Generator_RowClassName="position_in_mat_delivery_noteRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" minOccurs="0" />
+              <xs:element name="amount" msprop:Generator_ColumnVarNameInTable="columnamount" msprop:Generator_ColumnPropNameInRow="amount" msprop:Generator_ColumnPropNameInTable="amountColumn" msprop:Generator_UserColumnName="amount" type="xs:double" minOccurs="0" />
+              <xs:element name="invoice_id" msprop:Generator_ColumnVarNameInTable="columninvoice_id" msprop:Generator_ColumnPropNameInRow="invoice_id" msprop:Generator_ColumnPropNameInTable="invoice_idColumn" msprop:Generator_UserColumnName="invoice_id" type="xs:int" minOccurs="0" />
+              <xs:element name="material_id" msprop:Generator_ColumnVarNameInTable="columnmaterial_id" msprop:Generator_ColumnPropNameInRow="material_id" msprop:Generator_ColumnPropNameInTable="material_idColumn" msprop:Generator_UserColumnName="material_id" type="xs:int" minOccurs="0" />
+              <xs:element name="unit_of_measurement_id" msprop:Generator_ColumnVarNameInTable="columnunit_of_measurement_id" msprop:Generator_ColumnPropNameInRow="unit_of_measurement_id" msprop:Generator_ColumnPropNameInTable="unit_of_measurement_idColumn" msprop:Generator_UserColumnName="unit_of_measurement_id" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="material" msprop:Generator_TableClassName="materialDataTable" msprop:Generator_TableVarName="tablematerial" msprop:Generator_TablePropName="material" msprop:Generator_RowDeletingName="materialRowDeleting" msprop:Generator_RowChangingName="materialRowChanging" msprop:Generator_RowEvHandlerName="materialRowChangeEventHandler" msprop:Generator_RowDeletedName="materialRowDeleted" msprop:Generator_UserTableName="material" msprop:Generator_RowChangedName="materialRowChanged" msprop:Generator_RowEvArgName="materialRowChangeEvent" msprop:Generator_RowClassName="materialRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" minOccurs="0" />
+              <xs:element name="name_material" msprop:Generator_ColumnVarNameInTable="columnname_material" msprop:Generator_ColumnPropNameInRow="name_material" msprop:Generator_ColumnPropNameInTable="name_materialColumn" msprop:Generator_UserColumnName="name_material" type="xs:string" minOccurs="0" />
+              <xs:element name="code_material" msprop:Generator_ColumnVarNameInTable="columncode_material" msprop:Generator_ColumnPropNameInRow="code_material" msprop:Generator_ColumnPropNameInTable="code_materialColumn" msprop:Generator_UserColumnName="code_material" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:unit_of_measurement" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+    <xs:unique name="organization_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:organization" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+    <xs:unique name="invoice_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:invoice" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+    <xs:unique name="position_in_mat_delivery_note_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:position_in_mat_delivery_note" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+    <xs:unique name="material_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:material" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="unit_of_measurement_position_in_mat_delivery_note" msdata:parent="unit_of_measurement" msdata:child="position_in_mat_delivery_note" msdata:parentkey="id" msdata:childkey="unit_of_measurement_id" msprop:Generator_UserChildTable="position_in_mat_delivery_note" msprop:Generator_ChildPropName="Getposition_in_mat_delivery_noteRows" msprop:Generator_UserRelationName="unit_of_measurement_position_in_mat_delivery_note" msprop:Generator_RelationVarName="relationunit_of_measurement_position_in_mat_delivery_note" msprop:Generator_UserParentTable="unit_of_measurement" msprop:Generator_ParentPropName="unit_of_measurementRow" />
+      <msdata:Relationship name="organization_invoice" msdata:parent="organization" msdata:child="invoice" msdata:parentkey="id" msdata:childkey="organization_id" msprop:Generator_UserChildTable="invoice" msprop:Generator_ChildPropName="GetinvoiceRows" msprop:Generator_UserRelationName="organization_invoice" msprop:Generator_RelationVarName="relationorganization_invoice" msprop:Generator_UserParentTable="organization" msprop:Generator_ParentPropName="organizationRow" />
+      <msdata:Relationship name="invoice_position_in_mat_delivery_note" msdata:parent="invoice" msdata:child="position_in_mat_delivery_note" msdata:parentkey="id" msdata:childkey="invoice_id" msprop:Generator_UserChildTable="position_in_mat_delivery_note" msprop:Generator_ChildPropName="Getposition_in_mat_delivery_noteRows" msprop:Generator_UserRelationName="invoice_position_in_mat_delivery_note" msprop:Generator_RelationVarName="relationinvoice_position_in_mat_delivery_note" msprop:Generator_UserParentTable="invoice" msprop:Generator_ParentPropName="invoiceRow" />
+      <msdata:Relationship name="material_position_in_mat_delivery_note" msdata:parent="material" msdata:child="position_in_mat_delivery_note" msdata:parentkey="id" msdata:childkey="material_id" msprop:Generator_UserChildTable="position_in_mat_delivery_note" msprop:Generator_ChildPropName="Getposition_in_mat_delivery_noteRows" msprop:Generator_UserRelationName="material_position_in_mat_delivery_note" msprop:Generator_RelationVarName="relationmaterial_position_in_mat_delivery_note" msprop:Generator_UserParentTable="material" msprop:Generator_ParentPropName="materialRow" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>
